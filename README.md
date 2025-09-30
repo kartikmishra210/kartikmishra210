@@ -10,16 +10,15 @@ I love building tools, exploring systems, and contributing to open-source projec
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Operating System Development**  
-- **Rust & Systems Programming**  
-- **Cloud Security & VPS Automation**  
-- **Open-source contribution best practices**  
+- **Operating System Development**  
+- **Rust**  
+- **Networking**  
+- **Open-source**  
 
 ---
 
@@ -37,9 +36,9 @@ I love building tools, exploring systems, and contributing to open-source projec
 ---
 
 ## ⚡ Fun Facts
-- I enjoy **customizing Linux desktops** (ricing Hyprland on Arch)  
+- I enjoy tinkering with tools
 - Coffee > Chai ☕  
-- Love building **secure and privacy-focused tools**  
+- Love building cool things  
 
 ---
 
